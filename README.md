@@ -16,7 +16,7 @@ Library and models that I have Explored:
 
 5)Metavoice-1B
 
-6)coquiTTS
+6)coquiTTS(was not able to install TTS so have not performed this)
 
 7)ESPNet
 
