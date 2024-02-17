@@ -6,23 +6,23 @@ There is separate folder for "pyttsx3" and "ElevenLabs"
 
 Library and models that I have Explored:
 
-1)gTTS
+1) gTTS
 
-2)suno/bark: this is best because it available for commercial usage also.
+2) suno/bark: this is best because it available for commercial usage also.
 
-3)pyttsx3
+3) pyttsx3
 
-4)ElevenLabs
+4) ElevenLabs
 
-5)Metavoice-1B
+5) Metavoice-1B
 
-6)coquiTTS(was not able to install TTS so have not performed this)
+6) coquiTTS(was not able to install TTS so have not performed this)
 
-7)ESPNet
+7) ESPNet
 
-8)WaveGlow
+8) WaveGlow
 
-9)TensorflowTTS
+9) TensorflowTTS
 
 Video Demo Link:
 https://1drv.ms/v/s!Apnj3NYYFZr6gXE3wL2tAeSIms-r?e=FKCeLc
